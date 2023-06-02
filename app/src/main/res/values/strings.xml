@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tugas Telkom</string>
+    <string name="Login">Login</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Register">Register</string>
+    <string name="body_info">I\'m Haniif Ahmad Jauhari.\nRight now, i\'m a college student at\nInstitut Teknologi Sepuluh Nopember (ITS).</string>
+    <string name="hi_greet">Hi,</string>
+    <string name="login_or_register">Login or Register</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="photo_frame">Photo Frame</string>
+
+</resources>
